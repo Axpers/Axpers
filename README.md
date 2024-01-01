@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile ! 
 
 ## About me
-I am interested in developing useful applications that make people's lives easier.
+I'm passionate about developing and breaking applications.
 
-Passionate about NodeJS back-end development, I'm looking to keep improving and discovering new horizons.
+Interested in NodeJS back-end development, I'm looking to keep improving and discovering new horizons.
